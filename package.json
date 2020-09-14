@@ -13,7 +13,7 @@
     "express-session": "^1.15.6"
   },
   "devDependencies": {
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.18.4"
   },
   "scripts": {
